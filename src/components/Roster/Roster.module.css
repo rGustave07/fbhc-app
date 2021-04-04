@@ -1,0 +1,28 @@
+
+.container {
+    display: flex;
+    flex-grow: 1;
+
+    background-color: white;
+
+    margin-top: 25px;
+    height: 350px;
+    max-height: 350px;
+    width: 600px
+}
+
+.tabPanelScrollOver {
+    overflow: scroll;
+}
+
+.appBarMobile {
+    width: 500px;
+}
+
+@media only screen and (max-width: 500px) {
+    .container {
+        width: 350px;
+        height: 500px;
+        max-height: 500px;
+    }
+}

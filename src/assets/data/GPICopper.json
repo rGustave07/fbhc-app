@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Jordan Schmidt",
+        "number": 30,
+        "position": "G",
+        "confirmed": "Yes",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "Mishka",
+        "number": 0,
+        "position": "TBD (Forward)",
+        "confirmed": "Yes",
+        "seniority": "1 Season(s)"
+    },
+    {
+        "name": "John",
+        "number": 0,
+        "position": "TBD (Forward)",
+        "confirmed": "Yes",
+        "seniority": "1 Season(s)"
+    },
+    {
+        "name": "Brandon Fay",
+        "number": 0,
+        "position": "TBD (Forward)",
+        "confirmed": "No",
+        "seniority": "1 Season(s)"
+    },
+    {
+        "name": "Troy Thompson",
+        "number": 28,
+        "position": "Forward",
+        "confirmed": "No",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "JP Riley",
+        "number": 17,
+        "position": "Forward",
+        "confirmed": "No",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "Kyle Yap",
+        "number": 25,
+        "position": "Forward",
+        "confirmed": "Yes",
+        "seniority": "1 Season(s)"
+    },
+    {
+        "name": "Zakk Parker",
+        "number": 32,
+        "position": "Forward",
+        "confirmed": "No",
+        "seniority": "3 Season(s)"
+    },
+    {
+        "name": "Eric Richens",
+        "number": 0,
+        "position": "Forward",
+        "confirmed": "No",
+        "seniority": "2 Season(s)"
+    },
+    {
+        "name": "Steve (Scones) Marconi",
+        "number": 32,
+        "position": "Defense",
+        "confirmed": "Yes",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "Marc Harding",
+        "number": 0,
+        "position": "Defense",
+        "confirmed": "No",
+        "seniority": "1 Season(s)"
+    },
+    {
+        "name": "Zach Youngs",
+        "number": 14,
+        "position": "Defense",
+        "confirmed": "Yes",
+        "seniority": "1 Season(s)"
+    },
+    {
+        "name": "Eric Schwartz",
+        "number": 15,
+        "position": "Defense",
+        "confirmed": "No",
+        "seniority": "0 Season(s)"
+    },
+    {
+        "name": "Travis Pereiras",
+        "number": 34,
+        "position": "Defense",
+        "confirmed": "Yes",
+        "seniority": "3 Season(s)"
+    }
+]

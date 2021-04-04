@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Ritter Gustave",
+        "number": 77,
+        "position": "Defense",
+        "confirmed": "Yes",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "Dorsey Jordan",
+        "number": 1,
+        "position": "G",
+        "confirmed": "Yes",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "Michael Franco",
+        "number": 13,
+        "position": "Forward",
+        "confirmed": "Yes",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "Brendan Birch",
+        "number": 26,
+        "position": "Forward",
+        "confirmed": "Yes",
+        "seniority": "3 Season(s)"
+    },
+    {
+        "name": "Eric Small",
+        "number": 44,
+        "position": "Forward",
+        "confirmed": "Yes",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "Matt Fairrington",
+        "number": 0,
+        "position": "Forward",
+        "confirmed": "Yes",
+        "seniority": "3 Season(s)"
+    },
+    {
+        "name": "Adam Simms",
+        "number": 0,
+        "position": "Forward",
+        "confirmed": "Yes",
+        "seniority": "1 Season(s)"
+    },
+    {
+        "name": "Joe Martin",
+        "number": 53,
+        "position": "Forward",
+        "confirmed": "Yes",
+        "seniority": "2 Season(s)"
+    },
+    {
+        "name": "Jackson Hill",
+        "number": 2,
+        "position": "Defense",
+        "confirmed": "Yes",
+        "seniority": "2 Season(s)"
+    },
+    {
+        "name": "Steven (Scones) Marconi",
+        "number": 32,
+        "position": "Defense",
+        "confirmed": "Yes",
+        "seniority": "4 Season(s)"
+    },
+    {
+        "name": "Steven Simms",
+        "number": 87,
+        "position": "Defense",
+        "confirmed": "Yes",
+        "seniority": "2 Season(s)"
+    }
+]

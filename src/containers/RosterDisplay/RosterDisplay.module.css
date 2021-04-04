@@ -1,0 +1,35 @@
+
+.columnContainer {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    height: 100vh;
+}
+
+.logo {
+    width: 250px;
+    height: 250px;
+}
+
+.titleText {
+    color: #0CCEF8;
+    background-color: gray;
+    
+    padding: 10px;
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        width: 150px;
+        height: 150px;
+
+        margin-top: 25px;
+    }
+
+    .titleText {
+        display: none;
+    }
+}
