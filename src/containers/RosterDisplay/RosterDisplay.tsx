@@ -1,4 +1,3 @@
-import * as react from 'react';
 import Fblogo from '../../assets/icons/fblogoclipped.png';
 import Roster from '../../components/Roster';
 

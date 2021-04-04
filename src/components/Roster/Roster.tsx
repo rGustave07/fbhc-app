@@ -12,7 +12,6 @@ import PlayerTable from '../PlayerTable';
 
 import AppBar from '@material-ui/core/AppBar';
 import styles from './Roster.module.css';
-import { makeStyles } from '@material-ui/core';
 
 interface TabPanelProps {
     children?: React.ReactNode;

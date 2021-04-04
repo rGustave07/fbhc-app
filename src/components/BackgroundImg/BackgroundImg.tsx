@@ -1,8 +1,6 @@
-import * as react from 'react';
-
 import styles from './BackgroundImg.module.css';
 
-const BackgroundImg = () => {
+const BackgroundImg = (): JSX.Element => {
     return (
         <div className={styles.bgImg} />
     )
