@@ -31,7 +31,7 @@
         "name": "Troy Thompson",
         "number": 28,
         "position": "Forward",
-        "confirmed": "No",
+        "confirmed": "Yes",
         "seniority": "4 Season(s)"
     },
     {
@@ -87,7 +87,7 @@
         "name": "Eric Schwartz",
         "number": 15,
         "position": "Defense",
-        "confirmed": "No",
+        "confirmed": "Yes",
         "seniority": "0 Season(s)"
     },
     {
