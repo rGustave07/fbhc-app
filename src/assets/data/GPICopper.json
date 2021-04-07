@@ -7,8 +7,8 @@
         "seniority": "4 Season(s)"
     },
     {
-        "name": "Mishka",
-        "number": 0,
+        "name": "Mishka Ogulnik",
+        "number": 23,
         "position": "TBD (Forward)",
         "confirmed": "Yes",
         "seniority": "1 Season(s)"
@@ -22,9 +22,9 @@
     },
     {
         "name": "Brandon Fay",
-        "number": 0,
+        "number": 67,
         "position": "TBD (Forward)",
-        "confirmed": "No",
+        "confirmed": "Yes",
         "seniority": "1 Season(s)"
     },
     {
@@ -52,7 +52,7 @@
         "name": "Zakk Parker",
         "number": 32,
         "position": "Forward",
-        "confirmed": "No",
+        "confirmed": "Yes",
         "seniority": "3 Season(s)"
     },
     {
@@ -71,9 +71,9 @@
     },
     {
         "name": "Marc Harding",
-        "number": 0,
+        "number": 91,
         "position": "Defense",
-        "confirmed": "No",
+        "confirmed": "Not Playing",
         "seniority": "1 Season(s)"
     },
     {
