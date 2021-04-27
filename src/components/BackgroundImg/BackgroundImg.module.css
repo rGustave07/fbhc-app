@@ -1,7 +1,8 @@
 .bgImg {
     position: absolute;
 
-    background-image: url('../../assets/images/ildar-garifullin-M8lGIbichCA-unsplash.jpg');
+    /* background-image: url('../../assets/images/ildar-garifullin-M8lGIbichCA-unsplash.jpg'); */
+    background-image: url('../../assets/images/FBHC_GO.JPG');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

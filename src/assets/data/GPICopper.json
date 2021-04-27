@@ -35,13 +35,6 @@
         "seniority": "4 Season(s)"
     },
     {
-        "name": "JP Riley",
-        "number": 17,
-        "position": "Forward",
-        "confirmed": "No",
-        "seniority": "4 Season(s)"
-    },
-    {
         "name": "Kyle Yap",
         "number": 25,
         "position": "Forward",
@@ -68,13 +61,6 @@
         "position": "Defense",
         "confirmed": "Yes",
         "seniority": "4 Season(s)"
-    },
-    {
-        "name": "Marc Harding",
-        "number": 91,
-        "position": "Defense",
-        "confirmed": "Not Playing",
-        "seniority": "1 Season(s)"
     },
     {
         "name": "Zach Youngs",
