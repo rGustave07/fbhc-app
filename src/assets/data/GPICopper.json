@@ -14,8 +14,15 @@
         "seniority": "1 Season(s)"
     },
     {
-        "name": "John",
-        "number": 0,
+        "name": "Chris Albertine",
+        "number": 86,
+        "position": "TBD (Forward)",
+        "confirmed": "Yes",
+        "seniority": "1 Season(s)"
+    },
+    {
+        "name": "John Albertine",
+        "number": 91,
         "position": "TBD (Forward)",
         "confirmed": "Yes",
         "seniority": "1 Season(s)"
@@ -49,13 +56,6 @@
         "seniority": "3 Season(s)"
     },
     {
-        "name": "Eric Richens",
-        "number": 0,
-        "position": "Forward",
-        "confirmed": "No",
-        "seniority": "2 Season(s)"
-    },
-    {
         "name": "Steve (Scones) Marconi",
         "number": 32,
         "position": "Defense",
@@ -71,7 +71,7 @@
     },
     {
         "name": "Eric Schwartz",
-        "number": 15,
+        "number": 7,
         "position": "Defense",
         "confirmed": "Yes",
         "seniority": "0 Season(s)"
