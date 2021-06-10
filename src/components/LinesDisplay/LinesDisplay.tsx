@@ -11,7 +11,6 @@ import {
 	TableContainer,
 	TableHead,
 	TableRow, 
-	Typography
 } from '@material-ui/core'
 
 import {
@@ -106,7 +105,6 @@ const useRowStyles = makeStyles({
 const LinesDisplay = (props: Props) => {
 	const { playerData } = props
 	const [ filteredAndSortedPlayers, setFilteredAndSortedPlayers ] = React.useState<Lines>(defaultLines);
-	const [open, setOpen] = React.useState(false);
 
 	const [flopen, setflOpen] = React.useState(false);
 	const [slopen, setslOpen] = React.useState(false);
@@ -148,6 +146,7 @@ const LinesDisplay = (props: Props) => {
 	}
 
 	React.useEffect(() => {
+		// eslint-disable-next-line array-callback-return
 		const filteredAndSorted = playerData.reduce((accumulator, currentValue): any => {
 			// If goalie, don't map the display
 			if (currentValue.position === 'Goalie') return accumulator;
@@ -272,7 +271,7 @@ const LinesDisplay = (props: Props) => {
 		}, defaultLines)
 
 		setFilteredAndSortedPlayers(filteredAndSorted);
-	}, []);
+	}, [playerData]);
 
 	return (
     <TableContainer component={Paper}>
