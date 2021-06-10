@@ -2,84 +2,91 @@
     {
         "name": "Ritter Gustave",
         "number": 77,
-        "position": "Defense",
+        "position": "First LD",
         "confirmed": "Yes",
         "seniority": "4 Season(s)"
     },
     {
         "name": "Dorsey Jordan",
         "number": 1,
-        "position": "G",
+        "position": "Goalie",
         "confirmed": "Yes",
         "seniority": "4 Season(s)"
     },
     {
         "name": "Michael Franco",
         "number": 13,
-        "position": "Forward",
+        "position": "First LW",
         "confirmed": "Yes",
         "seniority": "4 Season(s)"
     },
     {
         "name": "Brendan Birch",
         "number": 26,
-        "position": "Forward",
+        "position": "First C",
         "confirmed": "Yes",
         "seniority": "3 Season(s)"
     },
     {
         "name": "Eric Small",
         "number": 44,
-        "position": "Forward",
+        "position": "Second C",
         "confirmed": "Yes",
         "seniority": "4 Season(s)"
     },
     {
         "name": "Matt Fairrington",
         "number": 15,
-        "position": "Forward",
+        "position": "Second LW",
         "confirmed": "Yes",
         "seniority": "3 Season(s)"
     },
     {
         "name": "Adam Simms",
         "number": 4,
-        "position": "Forward",
+        "position": "Third RD",
         "confirmed": "Yes",
         "seniority": "1 Season(s)"
     },
     {
         "name": "Joe Martin",
         "number": 53,
-        "position": "Forward",
+        "position": "Second RW",
         "confirmed": "Yes",
         "seniority": "2 Season(s)"
     },
     {
         "name": "Jackson Hill",
         "number": 2,
-        "position": "Defense",
+        "position": "Third LD",
         "confirmed": "Yes",
         "seniority": "2 Season(s)"
     },
     {
-        "name": "Tim Lew",
-        "number": 16,
-        "position": "TBD",
+        "name": "Troy Davis",
+        "number": 98,
+        "position": "Second LD",
+        "confirmed": "Yes",
+        "seniority": "0 Season(s)"
+    },
+    {
+        "name": "Taylor Davis",
+        "number": 99,
+        "position": "Second RD",
         "confirmed": "Yes",
         "seniority": "0 Season(s)"
     },
     {
         "name": "Steven (Scones) Marconi",
         "number": 32,
-        "position": "Defense",
+        "position": "First RD",
         "confirmed": "Yes",
         "seniority": "4 Season(s)"
     },
     {
         "name": "Steven Simms",
         "number": 87,
-        "position": "Defense",
+        "position": "First RW",
         "confirmed": "Yes",
         "seniority": "2 Season(s)"
     }

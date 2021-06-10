@@ -1,15 +1,27 @@
 import "./App.css";
 import "normalize.css";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from "react-router-dom";
 
-import BackgroundImg from './components/BackgroundImg';
-import RosterDisplay from './containers/RosterDisplay';
+import Home from './containers/Home';
 
 function App() {
 	return (
-		<div className="rootApp">
-			<BackgroundImg />
-			<RosterDisplay />
-		</div>
+		<Router>
+			<Switch>
+				<Route path="/lines">
+					<div>
+						Hi Chris!
+					</div>
+				</Route>
+				<Route path="/">
+					<Home />
+				</Route>
+			</Switch>
+		</Router>
 	);
 }
 
