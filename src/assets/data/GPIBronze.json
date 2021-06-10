@@ -44,7 +44,7 @@
     {
         "name": "Adam Simms",
         "number": 4,
-        "position": "Third RD",
+        "position": "First RW",
         "confirmed": "Yes",
         "seniority": "1 Season(s)"
     },
@@ -58,35 +58,35 @@
     {
         "name": "Jackson Hill",
         "number": 2,
-        "position": "Third LD",
+        "position": "Second LD",
         "confirmed": "Yes",
         "seniority": "2 Season(s)"
     },
     {
         "name": "Troy Davis",
         "number": 98,
-        "position": "Second LD",
+        "position": "Third LD",
         "confirmed": "Yes",
         "seniority": "0 Season(s)"
     },
     {
         "name": "Taylor Davis",
         "number": 99,
-        "position": "Second RD",
+        "position": "Third RD",
         "confirmed": "Yes",
         "seniority": "0 Season(s)"
     },
     {
         "name": "Steven (Scones) Marconi",
         "number": 32,
-        "position": "First RD",
+        "position": "Second RD",
         "confirmed": "Yes",
         "seniority": "4 Season(s)"
     },
     {
         "name": "Steven Simms",
         "number": 87,
-        "position": "First RW",
+        "position": "First RD",
         "confirmed": "Yes",
         "seniority": "2 Season(s)"
     }
