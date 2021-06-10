@@ -2,8 +2,6 @@ import { Button } from '@material-ui/core';
 import Fblogo from '../../assets/icons/fblogoclipped.png';
 import Roster from '../../components/Roster';
 
-import { Link } from 'react-router-dom';
-
 import styles from './RosterDisplay.module.css';
 import React from 'react';
 
